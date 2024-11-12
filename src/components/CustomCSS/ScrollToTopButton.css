@@ -1,0 +1,15 @@
+
+.scroll-to-top-button {
+    transition: background-color 0.3s ease; /* Smooth transition for background color */
+    background-color: #007BFF; /* Default background color */
+    color: white; /* Text color */
+    padding: 10px 15px; /* Padding */
+    border-radius: 25px; /* Rounded corners */
+    border: none; /* Remove border */
+    cursor: pointer; /* Pointer cursor */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Shadow */
+}
+
+.scroll-to-top-button:hover {
+    background-color: #66b3ff; /* Lighter blue color on hover */
+}
